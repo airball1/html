@@ -1,2 +1,2 @@
 # html
-The front for the miaosha project
+The frontend for the miaosha project
